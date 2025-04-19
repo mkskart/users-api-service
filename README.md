@@ -132,5 +132,3 @@ curl -i -X DELETE http://localhost:5000/users/1
    - `test_get_user_not_found` → returns 404 with `{ "message": "User not found" }`
 
 ---
-
-Happy coding!
